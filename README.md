@@ -1,7 +1,6 @@
 # No-Show Medical Appointments-Brasil,2016-Analysis Report
 ## Overview:
-This project was completed as part of Udacity's Data Analyst Nanodegree certification.
-The goal of this project is investigating a dataset that include more than 100k of records of scheduled medical appointment in Brazil in 2016. To have the ability to answer the following questions: 
+This project was completed as part of Udacity's Data Analyst Nanodegree certification. The goal of this project is to investigate a dataset that includes more than 100k records of scheduled medical appointments in Brazil in 2016. To have the ability to answer the following questions:
 <ul> 
     <li>What is the dataset age distribution and attendance distribution?</li>
     <li>What is the effect of having a scholarship on the attendance rate?</li>
