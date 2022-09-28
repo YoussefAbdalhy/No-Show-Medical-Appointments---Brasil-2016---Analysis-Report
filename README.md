@@ -6,7 +6,7 @@ This project was completed as part of Udacity's Data Analyst Nanodegree certific
     <li>What is the effect of having a scholarship on the attendance rate?</li>
     <li>Is there any coloration between the gender and the attendance?</li>
     <li>What is the distribution of scholarships between the two gender?</li>
-    <li>Does sending a confirmation SMS could increase the attendance rate?</li>
+    <li>Does send a confirmation SMS could increase the attendance rate?</li>
 </ul>
 
 
